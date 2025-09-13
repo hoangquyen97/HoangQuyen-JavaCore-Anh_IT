@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HoangQuyen_JavaCore_AnhIT_BaiTap.iml" filepath="$PROJECT_DIR$/HoangQuyen_JavaCore_AnhIT_BaiTap.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Buoi 1/NangCao_FS01-2025_Buoi1.iml" filepath="$PROJECT_DIR$/Buoi 1/NangCao_FS01-2025_Buoi1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NangCao_FS01-2025_Buoi1/NangCao_FS01-2025_Buoi1.iml" filepath="$PROJECT_DIR$/NangCao_FS01-2025_Buoi1/NangCao_FS01-2025_Buoi1.iml" />
       <module fileurl="file://$PROJECT_DIR$/NangCao_FS01-2025_Buoi2/NangCao_FS01-2025_Buoi2.iml" filepath="$PROJECT_DIR$/NangCao_FS01-2025_Buoi2/NangCao_FS01-2025_Buoi2.iml" />
     </modules>
   </component>
