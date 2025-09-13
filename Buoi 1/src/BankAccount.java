@@ -28,7 +28,7 @@ public class BankAccount {
         System.out.println("-----------------------------");//dòng ngăn cách giữa các TK
     }
 
-    // Hàm main để tạo TK
+    // Hàm main: tạo TK
     public static void main(String[] args) {
         // Tạo 2 tài khoản-Gán giá trị cho biến instant, lưu vào biến acc1/acc2 bằng constructor
         BankAccount acc1 = new BankAccount("123456", 1000000);
